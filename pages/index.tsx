@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <main>
         <div>
-          <p className="font-Inter">Sup</p>
+          <p className="font-bold font-Inter">Sup</p>
         </div>
       </main>
     </>
